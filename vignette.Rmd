@@ -1,0 +1,17 @@
+## Here is another test vignette.
+
+Here is some R code:
+
+```{r}
+# load a package
+library(png)
+
+# add some numbers:
+2 + 2
+```
+
+Here's another bit of code with a graphic:
+
+```{r}
+plot(cars)
+```
