@@ -15,3 +15,5 @@ Here's another bit of code with a graphic:
 ```{r}
 plot(cars)
 ```
+
+I just made a change!
